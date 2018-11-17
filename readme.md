@@ -1,15 +1,27 @@
-# linux system programming code
+# Stuff for Linux programming
 
-#### http://blog.naver.com/leekasong 
+* Example codes of system programming
 
-***
+  * execl
+  * signal
+  * message Q
+  * FIFO
+  * shared memory
+  * mutex
+  * socket
+* Git
+  * tips
 
-> execl <br/>
-> siganl <br/>
-> message queue <br/>
-> FIFO <br/>
-> shared memory <br/>
-> mutex <br/>
-> socket <br/>
+* Example codes of bash script
 
+  * auto execution
+* Docker
 
+  * Usage
+* markdown editor
+
+  * Download
+
+--------------------------------------------------------------------
+
+Blog : http://blog.naver.com/leekasong 

@@ -1,0 +1,11 @@
+docker pull byrnedo/alpine-curl
+docker pull subicura/docker-workshop-app:1
+docker pull subicura/docker-workshop-app:2
+docker pull subicura/docker-workshop-app:3
+docker pull redis
+docker pull mikesplain/telnet
+docker pull mysql:5.7
+docker pull wordpress
+docker pull tensorflow/tensorflow
+docker pull ruby:2.3
+docker pull subicura/jenkins:2
