@@ -8,13 +8,13 @@ git diff --name-only -diff-filter=D -z | xargs -0 git rm --cached
 
 * git diff --name-only -diff-filter=D
 
-  ![error](/home/kslee/workspace/Linux/Git/images/git_diff.png)
+  ![error](./images/git_diff.png)
 
   > display paths that have deleted or moved
 
 * git diff --name-only -diff-filter=D -z
 
-![error](/home/kslee/workspace/Linux/Git/images/git_diff_z.png)
+![error](./images/git_diff_z.png)
 
 >  replace '\n' to specific character. using '-z' option, '\0' is only seperator of string.
 
@@ -37,7 +37,7 @@ Here's man page of git diff -z option
 
 * xargs -0 [command]
 
-  ![error](/home/kslee/workspace/Linux/Git/images/xargs_help.png)
+  ![error](./images/xargs_help.png)
 
 > using -0 option, '\0' is only seperator of string.
 
@@ -55,7 +55,7 @@ Here's man page of git diff -z option
 
 
 
-![](/home/kslee/workspace/Linux/Git/images/delete_status.png)
+![](./images/delete_status.png)
 
 
 
@@ -63,4 +63,4 @@ Here's man page of git diff -z option
 
 > after
 
-![error](/home/kslee/workspace/Linux/Git/images/result.png)
+![error](./images/result.png)
